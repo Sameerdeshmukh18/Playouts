@@ -1,0 +1,90 @@
+body {
+  background-color: #181313;
+  }
+  .card-group {
+    position:fixed;
+    
+    padding-top: 2%;
+    padding-left:400px;
+    padding-right:300px;
+    border-radius: 25px;
+
+  }
+
+  .d-flex{
+    position: relative;
+    margin-top:0%;
+    
+    
+  }
+  .card-text{
+    text-align: center;
+    font: bold;
+    
+  }
+  .card{
+    background-color:rgb(242, 236, 236);
+    border-radius: 15px;
+    border: 2px solid #6982e8;
+    margin-right:50px;
+
+    
+    
+  }
+  .card :hover{
+    background-color: rgb(49, 47, 47);
+  }
+
+.table{
+  background-color: rgb(49, 47, 47);
+  
+    display:flexbox;
+        width: 200px;
+        align-items: center;
+        position:fixed;
+        margin-left: 35%;
+        margin-top: 20%;
+        margin-right: 20%;
+        border-color: black;
+        border-width: 5%;
+}
+.card1{
+  background-color: rgb(49, 47, 47);
+
+    text-align: center;
+    position: fixed;
+    margin-left: 80%;
+    margin-top: 8%;
+    margin-right:5%;
+    text-decoration-color: aliceblue;
+    border-width: 10px; ;
+    margin-bottom:80% ;
+    
+    border-radius: 25px;
+    
+
+}
+.card1:hover{
+  
+  background-color: rgb(255, 255, 255);
+  
+  
+}
+.bi{
+  margin-top:2%;
+  margin-left:auto;
+  margin-right:auto;
+
+}
+.card2{
+  background-color: rgb(49, 47, 47);
+
+   margin-left: 80%;
+    margin-top: 30%;
+    margin-right:5%;
+    text-align: center;
+    position: fixed;
+    
+    
+
+}

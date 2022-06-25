@@ -1,0 +1,16 @@
+.card{
+    position: fixed;
+    
+    background-color: rgb(49, 47, 47);
+
+    margin-top:50px;
+    padding-right: 300px;
+    padding-left:400px;
+    padding-bottom: 50%;
+}
+d-flex1{
+    height: 100%;
+    position: fixed;
+    }
+
+
